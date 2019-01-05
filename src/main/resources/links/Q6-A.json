@@ -1,0 +1,91 @@
+{
+  "tabTitle": "Client Service",
+  "pageTitle": "Client Service Matrix",
+  "description": "A Client Service Matrix is delivered on top of a client segmentation exercise to scale client services and deliver exceptional client experiences",
+  "resourceStepList": [
+    {
+      "title": "Establish a Client Service Matrix",
+      "description": "Superior client service is essential to maintain your existing business as well as provide for consistent long-term growth. It is the cornerstone of every successful business, but as the business grows, many investment professionals realize that providing equal service to all clients is neither sustainable nor profitable. Building a client service matrix is an essential foundation to delivering a robust client experience.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922152",
+          "description": "Read: Service Model Strategies",
+          "sso": "no"
+        },
+        {
+          "type": "ical",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922230",
+          "description": "Participate: Client Service Matrix Webinar",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Build Your Client Experience",
+      "description": "Evaluating the client segments you have already established is an essential first step to developing a client service matrix. Understanding the unique characteristics of those segments that have the largest impact to your business allows you to develop and deliver a client experience that both attracts and retains top clients. An essential step in executing a client service matrix is understanding the experience you want to deliver and how you want to deliver that experience.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922226",
+          "description": "Review: Services Checklist",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922234",
+          "description": "Review: Client Experience Process",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Build a Communication Plan",
+      "description": "",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922238",
+          "description": "Download Guide",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Develop Client Service Workflows and Procedures",
+      "description": "Once a Client Service Matrix is Established you will need to operationalize it across all client services with workflows and procedures. For example, when it's time for a client review, you'll need to have a defined set of steps that you and your office staff follow each and every time. These should be entered into your CRM system and each task assigned to a specific member of your team. Contact your business consultant or relationship manager to help you create these processes.",
+      "resourceItems": [
+        {
+          "type": "excel",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922242",
+          "description": "Complete: Client Service Level Workflow",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Execute and Monitor",
+      "description": "As you build your communication plan you will need to establish timelines, responsibilities and monitor results. This oversight assures that your plan continues to evolve along with your business.   Once your communications plan has been designed, you will need to make sure that each task is assigned to an individual on your team and scheduled for a specific day of the week. Once your clients have an expectation that something will be delivered to them on a regular basis, failing to meet that expectation may make them feel unimportant. Remember, consistency is key.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922246",
+          "description": "Read: Execute and Monitor",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+      "description": "Pentameter is your best place to build your DOL business goals and track your progress.  Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+      "resourceItems": [
+        {
+          "type": "web",
+          "url": "~/contact",
+          "description": "Consult: Pentameter Business Consultant",
+          "sso": "yes"
+        }
+      ]
+    }
+  ]
+}

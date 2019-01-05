@@ -1,0 +1,38 @@
+{
+  "tabTitle" : "Hiring",
+  "pageTitle" : "Hiring Staff to Align with Business Strategy",
+  "description" : "Working as a fiduciary under the DOL rule will potentially impact the future of your staffing needs as well as organizational design. To turn the constraint of the DOL rule into an opportunity, you must become very adept at managing all the intricacies of human capital within your business.",
+  "resourceStepList" : [ {
+    "title" : "Determine Staffing Needs",
+    "description" : "",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/business-management/strategic-planning/business-planning/business-planning-wizard",
+      "description" : "Visit: Complete Business Planning Wizard",
+      "sso" : "yes"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29924596",
+      "description" : "Download Guide",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Define the Job",
+    "description" : "",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922672",
+      "description" : "Download Guide",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+    "description" : "Pentameter is your best place to build your DOL business goals and track your progress.  Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/contact",
+      "description" : "Consult: Pentameter Business Consultant",
+      "sso" : "yes"
+    } ]
+  } ]
+}

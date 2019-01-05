@@ -1,0 +1,24 @@
+{
+  "tabTitle" : "Get Licensed",
+  "pageTitle" : "Getting IAR Registered is as Easy as 1,2,3,4...",
+  "description" : "With the passage of the DOL Fiduciary rule, a fee-based approach is one of the more viable options to advise on retirement accounts. Getting IAR Registered is your first step to building a DOL Compliant business.",
+  "resourceStepList" : [ {
+    "title" : "Why Get Licensed",
+    "description" : "The Advice Industry is evolving at a rapid pace as Digital advice platforms and transformative regulatory legislation become a significant catalyst for change. Clients expect more transparency, better products and services and at reduced costs. The value chain for financial advice is experiencing a significant shift forcing the industry to embrace holistic financial planning and fee-based compensation models. This trend necessitates that advisors become IAR's to capitalize on these trends. To better understand the benefit, we wanted to provide an opportunity to directly hear from your peers that recently made the decision to become IAR registered.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922215",
+      "description" : "Read: IAR Registration FAQs",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+    "description" : "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+    "resourceItems" : [ {
+      "type" : "email",
+      "url" : "dolinfo@cetera.com",
+      "description" : "Contact: Cetera Financial Group",
+      "sso" : "no"
+    } ]
+  } ]
+}

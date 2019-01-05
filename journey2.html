@@ -1,0 +1,46 @@
+(function() {
+  'use strict';
+
+	angular.module("myApp", ['radialIndicator']).controller("myCtrl", AnimateCtrl);
+
+	AnimateCtrl.$inject = ['$scope'];
+
+	function AnimateCtrl($scope) {
+
+		$scope.indicatorOption = {
+				barColor: '	#3CB371',
+		        barWidth: 12,
+		        initValue: 61,
+		        roundCorner : true,
+		        percentage: true,
+
+        };
+
+		$scope.indicatorOptionTwo = {
+				barColor: '#FF0000',
+		        barWidth: 16,
+		        initValue: 34,
+		        roundCorner : true,
+		        percentage: true
+        };
+
+
+		$scope.indicatorOptionThree = {
+				barColor: '#FF0000',
+		        barWidth: 16,
+		        initValue: 48,
+		        roundCorner : true,
+		        percentage: true
+        };
+
+
+		$scope.indicatorOptionFour = {
+				barColor: '#FF0000',
+		        barWidth: 16,
+		        initValue: 24,
+		        roundCorner : true,
+		        percentage: true
+        };
+	}
+
+})();

@@ -1,0 +1,108 @@
+{
+  "tabTitle" : "Hiring",
+  "pageTitle" : "Hiring Staff to Align with Business Strategy",
+  "description" : "Working as a fiduciary under the DOL rule will potentially impact the future of your staffing needs as well as organizational design. To turn the constraint of the DOL rule into an opportunity, you must become very adept at managing all the intricacies of human capital within your business.",
+  "resourceStepList" : [ {
+    "title" : "Determine Staffing Needs",
+    "description" : "",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/business-management/strategic-planning/business-planning/business-planning-wizard",
+      "description" : "Visit: Complete Business Planning Wizard",
+      "sso" : "yes"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29924591",
+      "description" : "Download Guide",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Define the Job",
+    "description" : "",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/human-capital/hiring-and-onboarding/description-of-functional-responsibilities",
+      "description" : "Review: Sample Descriptions of Functional Responsibilities",
+      "sso" : "yes"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922311",
+      "description" : "Download Guide",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Define Compensation Philosophy",
+    "description" : "To attract, engage and retain your staff you will need to have a specific compensation philosophy that defines how you pay your employees.  For example, if you are looking to attract top talent, your philosophy is to pay in the top quartile for all employers for each job type.  Conversely, you may be looking to mind your budget as much as possible and you are looking to attract employees who place value on non-monetary considerations such as schedule flexibility.  In which case, your philosophy may be to try to pay your employees less than the average.  How you pay your people will determine what kinds of candidates you attract, so it's best to have a predetermined philosophy.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/human-capital/employment-basics/compensation-scales",
+      "description" : "Review: Compensation Scales",
+      "sso" : "yes"
+    } ]
+  }, {
+    "title" : "Recruiting for position(s)",
+    "description" : "It is essential that you write a winning job posting with careful attention to the type of talent you wish to attract. Remember, you should be looking to attract top candidates and the posting should reflect the enthusiasm you have for your business.  Candidates will be much more inclined to respond to a well-worded posting than a simple list of job duties. <i>Great tip:  Post your job on brokerhunter.com.</i>",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922316",
+      "description" : "Read: Recruiting Challenges and Solutions",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922321",
+      "description" : "Read: Recruiting Guidelines",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Interview Process & Candidate Evaluation",
+    "description" : "A good interview doesn't guarantee a successful hire.  However, sound interviewing can help you find the right person for the job.  The hiring process requires you to balance gathering information to determine an applicant's suitability, while not asking questions that violate federal and state discrimination laws.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922327",
+      "description" : "Review: Interview questions",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922332",
+      "description" : "Review: Interview techniques",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Conduct Employee Profile Assessments",
+    "description" : "Turnover is very expensive, so take steps to ensure the candidate you want to hire has the potential and talent to be successful in their role and the firm.  An assessment helps you to determine the best fit for job candidates and the position you intend to fill.  You may be surprised what you learn about someone from one of these exercises.  They can go a long way in helping you make the right hiring decision.  Another best practice is to also have current employees, as well as yourself, take an assessment, so that you can gain insight about how your team can work better together.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922337",
+      "description" : "Read: Caliper brochure",
+      "sso" : "no"
+    }, {
+      "type" : "web",
+      "url" : "http://sp.calipercorp.com/cfg/",
+      "description" : "Visit: Get Caliper Report",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Making the offer and onboarding",
+    "description" : "Once you have decided who you want to hire, you need to extend that person an offer.  An offer letter should detail compensation, benefits, supervisor, working hours and start date.  If the candidate accepts the offer and returns a signed copy to you, you can then begin working on the onboarding process.  You will have various administrative obligations, such as forms and fingerprinting, but just as important, you want to make sure you have done everything to ensure your new employee feels welcome and ready to start the new job.",
+    "resourceItems" : [ {
+      "type" : "word",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922343",
+      "description" : "Review: Sample Offer Letter Template",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922348",
+      "description" : "Review: Checklist for New Employees",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+    "description" : "Pentameter is your best place to build your DOL business goals and track your progress.  Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/contact",
+      "description" : "Consult: Pentameter Business Consultant",
+      "sso" : "yes"
+    } ]
+  } ]
+}

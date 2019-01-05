@@ -1,0 +1,67 @@
+{
+  "tabTitle": "Segmentation",
+  "pageTitle": "Client Segmentation for Scale and Growth",
+  "description": "A formal Client Segmentation Exercise to identify profitable relationships and provide a plan to deliver specific services to each segment",
+  "resourceStepList": [
+    {
+      "title": "Establish a Client Segmentation Plan",
+      "description": "Many advisors built their business amassing many different types of clients across many different dimensions of value. As growth accelerates, client servicing becomes a far greater challenge.  Segmenting your clients allows you to focus your time on those relationships that provide either more revenue, or more referrals and opportunities. With a client segmentation plan you will provide specific services to each unique client segment. This process focuses your valuable time on those relationships and opportunities that contribute most to your overall revenue.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922093",
+          "description": "Read: Segmentation Strategies",
+          "sso": "no"
+        },
+        {
+          "type": "ical",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922089",
+          "description": "Attend Webinar",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Conceptualize your Client Tiers",
+      "description": "Superior client service is essential to maintain your existing business as well as provide for consistent long-term growth. It is the cornerstone of every successful business, but as the business grows, many investment professionals realize that providing equal service to all clients is neither sustainable nor profitable. An important first step is asking the right questions to better understand how you would construct your client tiers.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922097",
+          "description": "Read: Creating Client Tiers",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Analyze Your Clients",
+      "description": "While conceptualizing a framework for client segmentation is straightforward, implementing one can be overwhelming. It requires a detailed understanding of quantifiable client metrics from assets and revenue to time allowance and referrals. To aid in this process we have provided a comprehensive framework to evaluate your business and construct meaningful, relevant and effective client segments.",
+      "resourceItems": [
+        {
+          "type": "excel",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922101",
+          "description": "Complete: Client Segmentation Tool",
+          "sso": "no"
+        },
+        {
+          "type": "excel",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922108",
+          "description": "Complete: Client Service Level Workflow",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+      "description": "Pentameter is your best place to build your DOL business goals and track your progress.  Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+      "resourceItems": [
+        {
+          "type": "web",
+          "url": "~/pentameter/contact",
+          "description": "Consult: Pentameter Business Consultant",
+          "sso": "yes"
+        }
+      ]
+    }
+  ]
+}

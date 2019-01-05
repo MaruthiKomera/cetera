@@ -1,0 +1,31 @@
+{
+  "tabTitle": "Processes",
+  "pageTitle": "Implement Processes and Automated Workflows",
+  "description": "Build structured procedures for all business functions in order to automate tasks and assign responsibilities",
+  "resourceStepList": [
+    {
+      "title": "Review Your Processes",
+      "description": "If you don't document systems, all your tasks, functions, processes, and procedures are nothing more than good intentions. Every process you have in your business needs to be deliberately decided upon, documented and repeated. Cetera Financial Group's Workflows and Processes Resources within Pentameter, our award winning practice management platform, help advisors create the necessary scale to navigate DOL as well as help combat inefficiency while identifying opportunities for systemization and automation. Please use the resource below to learn more about this robust capability.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922652",
+          "description": "Read: Pentameter Flyer",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+      "description": "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+      "resourceItems": [
+        {
+          "type": "email",
+          "url": "dolinfo@cetera.com",
+          "description": "Contact: Cetera Financial Group",
+          "sso": "no"
+        }
+      ]
+    }
+  ]
+}

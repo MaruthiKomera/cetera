@@ -1,0 +1,37 @@
+{
+  "tabTitle": "Segmentation",
+  "pageTitle": "Client Segmentation for Scale and Growth",
+  "description": "A formal Client Segmentation Exercise to identify profitable relationships and provide a plan to deliver specific services to each segment",
+  "resourceStepList": [
+    {
+      "title": "Review Your Human Capital Tools and Processes",
+      "description": "Many advisors built their business amassing many different types of clients across many different dimensions of value. As growth accelerates, client servicing becomes a far greater challenge.  Cetera Financial Group's Client Segmentation Tools within Pentameter, our award winning practice management platform, help you segment your clients to focus on those relationships that provide either more revenue, or more referrals and opportunities. Please use the resource below to learn more about this robust capability.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922093",
+          "description": "Read: Segmentation Strategies",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922652",
+          "description": "Read: Pentameter Flyer",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+      "description": "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+      "resourceItems": [
+        {
+          "type": "email",
+          "url": "dolinfo@cetera.com",
+          "description": "Contact: Cetera Financial Group",
+          "sso": "no"
+        }
+      ]
+    }
+  ]
+}

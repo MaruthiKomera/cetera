@@ -1,0 +1,33 @@
+{
+  "tabTitle" : "Succession",
+  "pageTitle" : "Build and Implement a Succession Plan",
+  "description" : "Succession Planning, a planned exit from the business, can take many forms, but when done right, the greater chance you have for success. There are many things to consider, such as timeframe, finding the right buyer, valuation methodology, deal terms and transition strategy. The steps below will provide resources to help you to begin your strategy and define a plan.",
+  "resourceStepList" : [ {
+    "title" : "Complete the Enrollment Section of CFG's Succession Planning Program",
+    "description" : "Enrollment in CFG's Succession Planning Program gives us the information we need to help you manage and grow the equity in your business as well as define an exit strategy. Enrollment takes approximately 30 minutes to complete. If you do not have the time to complete the entire form in one sitting, you can save your answers and return to complete the form at your own pace. Once your enrollment profile is created, we will have a comprehensive understanding of your business goals and needs. Please also note that when enrolling in our program, your information is kept confidential.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/succession-planning/enrollment-survey?surveyName=Enrollment",
+      "description" : "Complete: Succession Planning Enrollment",
+      "sso" : "yes"
+    } ]
+  }, {
+    "title" : "Succession Planning Sections of CFG's Succession Planning Program",
+    "description" : "Succession planning is more of a process than an event. While it culminates in the sale of your business, it is a process that is best implemented over a three- to five-year period to ensure that the business continues to grow, that you optimize efficiency and profitability, maximize value, and minimize tax consequences. All of this can be achieved with a properly structured succession plan, and your dedicated business consultant is experienced in helping advisors through the entire process.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/succession-planning/planning-tool?wizardId=3",
+      "description" : "Complete: Succession Planning Wizard",
+      "sso" : "yes"
+    } ]
+  }, {
+    "title" : "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+    "description" : "Pentameter is your best place to build your DOL business goals and track your progress.  Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/contact",
+      "description" : "Consult: Pentameter Business Consultant",
+      "sso" : "yes"
+    } ]
+  } ]
+}

@@ -1,0 +1,57 @@
+{
+  "tabTitle" : "CRM System",
+  "pageTitle" : "Automate Processes with a CRM System",
+  "description" : "Using a CRM system to create and automate specific processes for your business is absolutely necessary to maximize your productivity and profitability.  When you spend less time on operational activities, you can dedicate more time with clients increasing both client satisfaction and profitability.",
+  "resourceStepList" : [ {
+    "title" : "Evaluate Your Options",
+    "description" : "There are many solutions and technologies available with a wide array of features and functionality. Many CRM systems today feature account management, activity management, robust reporting and much more. Understanding your needs is an important first step as well as considering deployment options, flexibility, cost, efficiency and business value.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922355",
+      "description" : "Read: Creating Growth Through Optimal Use of a CRM System",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922360",
+      "description" : "Read: Guide to CRM System Providers",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Choose a CRM System",
+    "description" : "Once you've determined the specific needs of your business, use the guidelines provided for you in Pentameter to choose the specific software with the features that best match your unique requirements.",
+    "resourceItems" : [ {
+      "type" : "ical",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922365",
+      "description" : "Attend Webinar",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Automate Your Workflows",
+    "description" : "While documenting client engagement is an important element of CRM, the real benefit of a robust CRM system is its ability to automate your workflows. Automated workflows are a sequence of linked steps built into your CRM system which enable your team to enhance both efficiency and productivity. For example, when you schedule a client meeting, your CRM system should automatically generate all the tasks that need to be completed in advance of the meeting and send alerts to each individual assigned a task.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922370",
+      "description" : "Read: CRM Implementation Guide",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922375",
+      "description" : "Read: Automate Your Workflows",
+      "sso" : "no"
+    }, {
+      "type" : "excel",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922380",
+      "description" : "Review: Sample Workflow Template",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+    "description" : "Pentameter is your best place to build your DOL business goals, track your progress and find many more practice management resources.  Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/contact",
+      "description" : "Consult: Pentameter Business Consultant",
+      "sso" : "yes"
+    } ]
+  } ]
+}

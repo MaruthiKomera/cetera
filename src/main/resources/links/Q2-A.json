@@ -1,0 +1,73 @@
+{
+  "tabTitle": "Retirement Plans",
+  "pageTitle": "Build Your Qualified Retirement Plan Business",
+  "description": "The new DOL ruling may make you an ERISA fiduciary to all of your qualified retirement plan clients.  Follow these step to ensure you know the potential impact on your existing plan business as well as building a plan for you to continue to win and grow those plan assets.",
+  "resourceStepList": [
+    {
+      "title": "Learn what it means to be a Plan Fiduciary",
+      "description": "It is important to understand exactly what it means to serve as a plan fiduciary, the services that you may be expected to provide, and what types of activities may be prohibited.",
+      "resourceItems": [
+        {
+          "type": "video",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29921987",
+          "description": "Watch: ERISA Plan Fiduciary Duties",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Learn how the DOL Fiduciary Rule Impacts Qualified Retirement Plans",
+      "description": "The DOL Fiduciary Rule has far-reaching implications for all retirement accounts but there are a few elements of the rule specific to qualified retirement plans. It is essential that you understand the impact to your retirement plan business and the steps you can take to prepare and succeed in the new fiduciary environment.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29921991",
+          "description": "Read: Top 6 DOL Retirement Plan FAQ's",
+          "sso": "no"
+        },
+        {
+          "type": "ical",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29921995",
+          "description": "Attend Webinar",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Build a Plan for Growth",
+      "description": "While the DOL Fiduciary Rule is transforming the retirement plan landscape, there are significant growth opportunities for those that are prepared. We recognize this more than most and have committed significant resources to help you build and plan for growth. Whether you are a novice or an experienced retirement plan advisor, we have a path and a resource so you don't have to walk alone.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29921999",
+          "description": "Read: Retirement Plan Solutions Overview",
+          "sso": "no"
+        },
+        {
+          "type": "video",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922644",
+          "description": "Watch: Guided Retirement Solutions Overview",
+          "sso": "no"
+        },
+        {
+          "type": "web",
+          "url": "~/guided-retirement-solutions",
+          "description": "Visit: Guided Retirement Solutions",
+          "sso": "yes"
+        }
+      ]
+    },
+    {
+      "title": "Execute your Retirement Plan Business Strategy",
+      "description": "Whether you are solving for key employee retention, sheltering owner and employee income from taxes, providing employees with a retirement savings vehicle or solving a current plan problem, Cetera Retirement Plan Solutions has the depth and breadth of expertise and services to help you deliver comprehensive strategies and solutions.",
+      "resourceItems": [
+        {
+          "type": "email",
+          "url": "retirementplans@cetera.com",
+          "description": "Consult: Retirement Plan Consulting Team",
+          "sso": "no"
+        }
+      ]
+    }
+  ]
+}

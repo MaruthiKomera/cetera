@@ -1,0 +1,29 @@
+{
+  "tabTitle" : "Designations",
+  "pageTitle" : "Pursue a Professional Designation",
+  "description" : "Earning an industry designation can enhance your knowledge and increase your credibility with clients and prospects. Follow the steps below to get started.",
+  "resourceStepList" : [ {
+    "title" : "Learn more about Financial Designations",
+    "description" : "By continuing to increase your technical knowledge and practice management skills, you will be positioned to serve clients better than ever. In this environment of changing regulations, advisors who can adapt quickly and turn challenges into opportunities will outshine their peers. Explore the benefits of earning an Accredited Investment Fiduciary®, Certified Financial Planner®, Certified Wealth Strategist® or Certified Retirement Counselor® designation.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "www.cfg-events.com",
+      "description" : "Visit: www.cfg-events.com",
+      "sso" : "no"
+    }, {
+      "type" : "web",
+      "url" : "www.cfp.net",
+      "description" : "Visit: www.cfp.net",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+    "description" : "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+    "resourceItems" : [ {
+      "type" : "email",
+      "url" : "dolinfo@cetera.com",
+      "description" : "Contact: Cetera Financial Group",
+      "sso" : "no"
+    } ]
+  } ]
+}

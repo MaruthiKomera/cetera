@@ -1,0 +1,115 @@
+{
+  "tabTitle": "Client Marketing",
+  "pageTitle": "Client Communication Strategies for Growth",
+  "description": "Develop and implement a proactive, automated client communication strategy to nurture your prospects, engage your clients and grow your business",
+  "resourceStepList": [
+    {
+      "title": "Learn",
+      "description": "Marketing is an intrinsic element of any advisory business, at every stage of its development. Top wealth manage firms all leverage some type of technology to build and maintain a consistent, repeatable and timely client communication strategy. Understanding the impact of a robust marketing strategy and the ingredients of an effective client communication program are essential first steps.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922047",
+          "description": "Read: Elite Marketing Tactics",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922051",
+          "description": "Read: Marketing Made Simple",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Connect2Clients®",
+      "description": "",
+      "resourceItems": [
+        {
+          "type": "web",
+          "url": "http://fast.wistia.net/embed/iframe/vqgkaaepvu?autoPlay=true&controlsVisibleOnLoad=true&playButton=false&playerColor=3498db&popover=true&version=v1&videoHeight=360&videoWidth=640",
+          "description": "Watch: C2C Overview",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922055",
+          "description": "Download Guide",
+          "sso": "no"
+        },
+        {
+          "type": "web",
+          "url": "www.connect2clients.com",
+          "description": "Visit: Connect2Clients®",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Set Up",
+      "description": "To subscribe to the Connect2Clients Email and Greeting Card Tool, visit www.connect2clients.com and select sign up from the home page to receive your username and password. The cost is $20/month, and you will get the first 30 days free.",
+      "resourceItems": [
+        {
+          "type": "web",
+          "url": "https://cetera.fmgsuite.com/advisor-admin-walkthrough/",
+          "description": "Watch: C2C Getting Started",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922059",
+          "description": "Review: C2C Setup Checklist",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Strategize",
+      "description": "Make meaningful connections with a thoughtful communications plan tailored to resonate with your clients. Segmentation features enable you to easily target your communications to specific groups of individuals, like your IRA clients, and track the success of your emails.",
+      "resourceItems": [
+        {
+          "type": "video",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922063",
+          "description": "Watch: Managing Contacts",
+          "sso": "no"
+        },
+        {
+          "type": "excel",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922067",
+          "description": "Create: A Communication Strategy",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922074",
+          "description": "Read: Proactive Communication",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Implement",
+      "description": "Time to get started! It's easy to consistently reach out to clients with a combination of pre-scheduled campaigns and timely on demand emails. Don't forget to check your effectiveness of content types and client engagement by periodically reviewing your reporting.",
+      "resourceItems": [
+        {
+          "type": "video",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922080",
+          "description": "Watch: Sending Communications",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Consult",
+      "description": "While it's easy to get started you may need some assistance along the way. Do not hesitate to reach out and schedule an appointment with one of our Marketing Consultants at any time.",
+      "resourceItems": [
+        {
+          "type": "web",
+          "url": "http://booknow.so/connect2clients",
+          "description": "Consult: Book An Appointment",
+          "sso": "no"
+        }
+      ]
+    }
+  ]
+}

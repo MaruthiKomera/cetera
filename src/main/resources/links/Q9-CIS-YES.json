@@ -1,0 +1,57 @@
+{
+  "tabTitle" : "Staffing",
+  "pageTitle" : "Organizational Design and Review",
+  "description" : "Working as a fiduciary under the DOL rule will potentially impact the future of your staffing needs as well as organizational design. To turn the constraint of the DOL rule into an opportunity, you must become very adept at managing all the intricacies of human capital within your business.",
+  "resourceStepList" : [ {
+    "title" : "Review Your Human Capital Tools and Processes",
+    "description" : "It is important to be comfortable with best practices.  Big companies always have things like job descriptions, hiring budgets and performance review processes.  If you have not taken Pentameter's Assessment yet, please do so now.  If you have, review the Human Capital section to see where you may have some gaps.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/survey?surveyName=Business%20Assessment",
+      "description" : "Visit: Human Capital section of Pentameter Assessment",
+      "sso" : "yes"
+    } ]
+  }, {
+    "title" : "Review Current Organizational Structure",
+    "description" : "",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/business-management/strategic-planning/business-planning/business-planning-wizard",
+      "description" : "Visit: Complete Business Planning Wizard",
+      "sso" : "yes"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29924586",
+      "description" : "Download Guide",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Review the Job Position",
+    "description" : "Job descriptions can be used as road maps for career planning and training.  When you are looking to hire a new person or create a new role, always create a job description.  This helps people understand what is expected of them and lets them know what is needed in order to be successful.  Likewise, if you do not have job descriptions for your current employees, take the time to create them.  You can leverage your job descriptions to identify training gaps and determine what skills and development needs are required as you incorporate the new DOL fiduciary rule into your business.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922657",
+      "description" : "Review: Sample Administrative Assistant Job Description",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922662",
+      "description" : "Review: Sample Licensed Sales Job Description",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922667",
+      "description" : "Review: Sample Paraplanner Job Description",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+    "description" : "Pentameter is your best place to build your DOL business goals and track your progress. Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/contact",
+      "description" : "Consult: Pentameter Business Consultant",
+      "sso" : "yes"
+    } ]
+  } ]
+}

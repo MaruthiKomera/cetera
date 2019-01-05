@@ -1,0 +1,24 @@
+{
+  "tabTitle" : "Succession",
+  "pageTitle" : "Build and Implement a Succession Plan",
+  "description" : "Succession Planning, a planned exit from the business, can take many forms, but when done right, the greater chance you have for success. There are many things to consider, such as timeframe, finding the right buyer, valuation methodology, deal terms and transition strategy. The steps below will provide resources to help you to begin your strategy and define a plan.",
+  "resourceStepList" : [ {
+    "title" : "The Pentameter Succession Planning Wizard",
+    "description" : "Cetera Financial Group's Succession Planning Program within Pentameter, our award winning practice management platform, enables you to manage and grow the equity in your business as well as define an exit strategy. It allows our advisors to optimize efficiency and profitability, maximize value, and minimize tax consequences. Please use the resource below to learn more about this robust capability.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922652",
+      "description" : "Read: Pentameter Flyer",
+      "sso" : "no"
+    }]
+  }, {
+    "title" : "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+    "description" : "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+    "resourceItems" : [ {
+      "type" : "email",
+      "url" : "dolinfo@cetera.com",
+      "description" : "Contact: Cetera Financial Group",
+      "sso" : "no"
+    } ]
+  }]
+}

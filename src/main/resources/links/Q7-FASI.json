@@ -1,0 +1,91 @@
+{
+  "tabTitle": "Processes",
+  "pageTitle": "Implement Processes and Automated Workflows",
+  "description": "Build structured procedures for all business functions in order to automate tasks and assign responsibilities",
+  "resourceStepList": [
+    {
+      "title": "Review Your Processes",
+      "description": "If you don't document systems, all your tasks, functions, processes, and procedures are nothing more than good intentions. Every process you have in your business needs to be deliberately decided upon, documented and repeated. Additionally, careful ongoing monitoring is essential to combat inefficiencies as well as to identify opportunities for improvement.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922259",
+          "description": "Read: Review Your Processes",
+          "sso": "no"
+        },
+        {
+          "type": "ical",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922263",
+          "description": "Attend Webinar",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Assign Responsibilities",
+      "description": "While evaluating and documenting processes is foundational, assigning responsibilities for each action step in a process is essential for execution. Everyone on the team should know their role in each process, how to perform each function and how to document and track each step. If you are a solo practitioner with little to no staff, consider the benefits of adding additional members and their impact on the overall efficiency of your business. Identifying and delegating non-revenue producing activities allows you to isolate your focus on producing revenue.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922267",
+          "description": "Read: Assign Responsibilities",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Formalize & Document Your Processes",
+      "description": "Once you have decided the best, fastest and most efficient way to execute each process, you must document them. An informal approach to executing processes may work initially but is unsustainable over the long-term without a documented procedures manual.  The goal is to develop and document a step-by-step process for each procedure, and then create a manual that dictates how each and every process in your business is done and by whom. Your manual must include everything from office operations to client review meetings with assigned team responsibilities to each workflow item within each process.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922271",
+          "description": "Read: Documenting Processes",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922275",
+          "description": "Review: Sample Procedures",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922279",
+          "description": "Read: Disaster Recovery Planning",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Automate Your Workflows",
+      "description": "Automated systems can make processes faster, smoother and are more reliable minimizing human error.  Automation provides structure which enables your team to maintain and enhance productivity. Automated workflows are a sequence of linked steps built into your CRM system. For example, when you schedule a client meeting, your CRM system should automatically start all the tasks that need to be completed in advance of the meeting and send alerts to each individual assigned a task. The processes you documented in previous steps are used to generate these automated workflows in your CRM system.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922283",
+          "description": "Read: Automate Your Workflows",
+          "sso": "no"
+        },
+        {
+          "type": "excel",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922290",
+          "description": "Review: Sample Workflow Template",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+      "description": "Pentameter is your best place to build your DOL business goals, track your progress and find many more practice management resources.  Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+      "resourceItems": [
+        {
+          "type": "web",
+          "url": "~/pentameter/contact",
+          "description": "Consult: Pentameter Business Consultant",
+          "sso": "yes"
+        }
+      ]
+    }
+  ]
+}

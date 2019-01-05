@@ -1,0 +1,24 @@
+{
+  "tabTitle" : "Teaming",
+  "pageTitle" : "Your Guide to Advisor Teaming",
+  "description" : "Consider joining forces with another advisor to capitalize on DOL Opportunities",
+  "resourceStepList" : [ {
+    "title" : "Understand Teaming Dynamics",
+    "description" : "The increasing client, operational and regulatory demands caused by the DOL's new Fiduciary Rule will force many advisors - especially those operating in historically solo practioner business models - to consider partnering or teaming with other financial professionals. Cetera Financial Group's Teaming Resources within Pentameter, our award winning practice management platform, help advisors create the necessary scale to navigate DOL as well as offer end clients a more comprehensive client service experience. Please use the resource below to learn more about this robust capability.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922652",
+      "description" : "Read: Pentameter Flyer",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+    "description" : "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+    "resourceItems" : [ {
+      "type" : "email",
+      "url" : "dolinfo@cetera.com",
+      "description" : "Contact: Cetera Financial Group",
+      "sso" : "no"
+    } ]
+  } ]
+}

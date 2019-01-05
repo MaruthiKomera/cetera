@@ -1,0 +1,43 @@
+{
+  "tabTitle": "Client Marketing",
+  "pageTitle": "Client Communication Strategies for Growth",
+  "description": "Develop and implement a proactive, automated client communication strategy to nurture your prospects, engage your clients and grow your business",
+  "resourceStepList": [
+    {
+      "title": "Learn",
+      "description": "Marketing is an intrinsic element of any advisory business, at every stage of its development. Top wealth manage firms all leverage some type of technology to build and maintain a consistent, repeatable and timely client communication strategy. Understanding the impact of a robust marketing strategy and the ingredients of an effective client communication program are essential first steps.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922047",
+          "description": "Read: Elite Marketing Tactics",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922051",
+          "description": "Read: Marketing Made Simple",
+          "sso": "no"
+        },
+        {
+          "type": "web",
+          "url": "http://www.connect2clients.com",
+          "description": "Visit: Connect2Clients®",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+      "description": "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+      "resourceItems": [
+        {
+          "type": "email",
+          "url": "dolinfo@cetera.com",
+          "description": "Contact: Cetera Financial Group",
+          "sso": "no"
+        }
+      ]
+    }
+  ]
+}

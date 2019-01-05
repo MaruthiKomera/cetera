@@ -1,0 +1,29 @@
+{
+  "tabTitle" : "CRM System",
+  "pageTitle" : "Automate Processes with a CRM System",
+  "description" : "Using a CRM system to create and automate specific processes for your business is absolutely necessary to maximize your productivity and profitability.  When you spend less time on operational activities, you can dedicate more time with clients increasing both client satisfaction and profitability.",
+  "resourceStepList" : [ {
+    "title" : "Evaluate Your Options",
+    "description" : "There are many solutions and technologies available with a wide array of features and functionality. Many CRM systems today feature account management, activity management, robust reporting and much more. Cetera Financial Group's guide to CRM Systems within Pentameter, our award winning practice management platform, helps advisors understand their CRM needs as well as assists in determining the right deployment options, flexibility, cost, efficiency and business value.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922355",
+      "description" : "Read: Creating Growth Through Optimal Use of a CRM System",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922652",
+      "description" : "Read: Pentameter Flyer",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+    "description" : "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+    "resourceItems" : [ {
+      "type" : "email",
+      "url" : "dolinfo@cetera.com",
+      "description" : "Contact: Cetera Financial Group",
+      "sso" : "no"
+    } ]
+  } ]
+}

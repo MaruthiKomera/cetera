@@ -1,0 +1,37 @@
+{
+  "tabTitle": "Financial Planning",
+  "pageTitle": "Financial Advice through Financial Planning",
+  "description": "The DOL Fiduciary Rule will have long lasting effects on the way the industry engages clients, promoting a more holistic and planning centered business model to deliver financial advice.",
+  "resourceStepList": [
+    {
+      "title": "The Importance of Financial Planning",
+      "description": "The Advice Industry is evolving at a rapid pace as Digital advice platforms and transformative regulatory legislation become a significant catalyst for change. Clients expect more transparency, better products and services and at reduced costs. The value chain for financial advice is experiencing a significant shift forcing the industry to embrace holistic financial planning. Cetera Financial Group's Financial Planning Resources help advisors create the necessary scale to navigate DOL as well as offer end clients a more comprehensive client service experience. Please use the resource below to learn more about this robust capability.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29923955",
+          "description": "Read: The Value of Goals-Based Planning",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29923960",
+          "description": "Read: Alpha, Beta, Now Gamma",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+      "description": "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+      "resourceItems": [
+        {
+          "type": "email",
+          "url": "dolinfo@cetera.com",
+          "description": "Contact: Cetera Financial Group",
+          "sso": "no"
+        }
+      ]
+    }
+  ]
+}

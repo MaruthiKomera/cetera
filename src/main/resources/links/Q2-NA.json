@@ -1,0 +1,31 @@
+{
+  "tabTitle": "Retirement Plans",
+  "pageTitle": "Build Your Qualified Retirement Plan Business",
+  "description": "The new DOL ruling may make you an ERISA fiduciary to all of your qualified retirement plan clients.  Follow these step to ensure you know the potential impact on your existing plan business as well as building a plan for you to continue to win and grow those plan assets.",
+  "resourceStepList": [
+    {
+      "title": "Learn what it means to be a Plan Fiduciary",
+      "description": "It is important to understand exactly what it means to serve as a plan fiduciary, the services that you may be expected to provide, and what types of activities may be prohibited.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29921991",
+          "description": "Read: Top 6 DOL Retirement Plan FAQ's",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+      "description": "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+      "resourceItems": [
+        {
+          "type": "email",
+          "url": "dolinfo@cetera.com",
+          "description": "Contact: Cetera Financial Group",
+          "sso": "no"
+        }
+      ]
+    }
+  ]
+}

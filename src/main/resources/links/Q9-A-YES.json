@@ -1,0 +1,71 @@
+{
+  "tabTitle" : "Staffing",
+  "pageTitle" : "Organizational Design and Review",
+  "description" : "Working as a fiduciary under the DOL rule will potentially impact the future of your staffing needs as well as organizational design. To turn the constraint of the DOL rule into an opportunity, you must become very adept at managing all the intricacies of human capital within your business.",
+  "resourceStepList" : [ {
+    "title" : "Review Your Human Capital Tools and Processes",
+    "description" : "It is important to be comfortable with best practices.  Big companies always have things like job descriptions, hiring budgets and performance review processes.  If you have not taken Pentameter's Assessment yet, please do so now.  If you have, review the Human Capital section to see where you may have some gaps.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/survey?surveyName=Business%20Assessment",
+      "description" : "Visit: Human Capital section of Pentameter Assessment",
+      "sso" : "yes"
+    } ]
+  }, {
+    "title" : "Review Current Organizational Structure",
+    "description" : "",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/business-management/strategic-planning/business-planning/business-planning-wizard",
+      "description" : "Visit: Complete Business Planning Wizard",
+      "sso" : "yes"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29924576",
+      "description" : "Download Guide",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Review the Job Position",
+    "description" : "",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/human-capital/employment-basics/compensation-scales",
+      "description" : "Review: Compensation Scales",
+      "sso" : "yes"
+    }, {
+      "type" : "web",
+      "url" : "~/pentameter/human-capital/hiring-and-onboarding/description-of-functional-responsibilities",
+      "description" : "Review: Sample Descriptions of Functional Responsibilities",
+      "sso" : "yes"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922286",
+      "description" : "Download Guide",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Conduct Employee Profile Assessments",
+    "description" : "Do you have the right people doing the right job?  Are they talented, engaged and have the potential to meet the needs of your business direction?  An assessment helps you to determine the best fit for job candidates and the position you are filling.  You may be surprised what you learn about someone from these exercises.  Another best practice is to also have current employees, as well as yourself, take an assessment, so that you can gain insight about how your team can work better together.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922299",
+      "description" : "Read: Caliper brochure",
+      "sso" : "no"
+    }, {
+      "type" : "web",
+      "url" : "http://sp.calipercorp.com/cfg/",
+      "description" : "Visit: Get Caliper Report",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+    "description" : "Pentameter is your best place to build your DOL business goals and track your progress. Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/contact",
+      "description" : "Consult: Pentameter Business Consultant",
+      "sso" : "yes"
+    } ]
+  } ]
+}

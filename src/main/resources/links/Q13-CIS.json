@@ -1,0 +1,34 @@
+{
+  "tabTitle" : "Teaming",
+  "pageTitle" : "Your Guide to Advisor Teaming",
+  "description" : "Consider joining forces with another advisor to capitalize on DOL Opportunities",
+  "resourceStepList" : [ {
+    "title" : "Understand Teaming Dynamics",
+    "description" : "The increasing client, operational and regulatory demands caused by the DOL's new Fiduciary Rule will force many advisors - especially those operating in historically solo practioner business models - to consider partnering or teaming with other financial professionals. In doing so, advisors can create the necessary scale to navigate DOL as well as offer end clients a more comprehensive client service experience.",
+    "resourceItems" : [ {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922155",
+      "description" : "Read: Best Practices of Elite Teams",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922160",
+      "description" : "Read: Teamwork - A Winning Combination",
+      "sso" : "no"
+    }, {
+      "type" : "pdf",
+      "url" : "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922165",
+      "description" : "Read: Building a High Performing Team",
+      "sso" : "no"
+    } ]
+  }, {
+    "title" : "Consult your Dedicated Business Consultant or Relationship Manager to Leverage Pentameter",
+    "description" : "Pentameter is your best place to build your DOL business goals and track your progress.  Speak with your dedicated Business Consultant or Relationship Manager to translate your DOL goals into your business plan.",
+    "resourceItems" : [ {
+      "type" : "web",
+      "url" : "~/pentameter/contact",
+      "description" : "Consult: Pentameter Business Consultant",
+      "sso" : "yes"
+    } ]
+  } ]
+}

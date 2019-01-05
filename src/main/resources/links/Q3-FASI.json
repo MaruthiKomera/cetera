@@ -1,0 +1,73 @@
+{
+  "tabTitle": "Financial Planning",
+  "pageTitle": "Financial Advice through Financial Planning",
+  "description": "The DOL Fiduciary Rule will have long lasting effects on the way the industry engages clients, promoting a more holistic and planning centered business model to deliver financial advice.",
+  "resourceStepList": [
+    {
+      "title": "The Importance of Financial Planning",
+      "description": "The Advice Industry is evolving at a rapid pace as Digital advice platforms and transformative regulatory legislation become a significant catalyst for change. Clients expect more transparency, better products and services and at reduced costs. The value chain for financial advice is experiencing a significant shift forcing the industry to embrace holistic financial planning. A financial planning focused practice attracts higher net worth households and combats fee compression through a differentiated service offering.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29923955",
+          "description": "Read: The Value of Goals-Based Planning",
+          "sso": "no"
+        },
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29923960",
+          "description": "Read: Alpha, Beta, Now Gamma",
+          "sso": "no"
+        },
+        {
+          "type": "ical",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922027",
+          "description": "Attend Webinar",
+          "sso": "no"
+        },
+        {
+          "type": "phone",
+          "url": "",
+          "description": "800-771-6316",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Essential Elements of Financial Planning",
+      "description": "Powerful financial planning software is essential for delivering comprehensive and holistic financial advice. However, there are a number of differentiating features and capabilities that make it difficult to isolate the right solution. Whether it's the distinction between goals-based and cash-flow-based retirement projections, the ease of input, the depth of the output, available integrations to other components in the advisor technology stack, we attempt to shine a light on finding the right platform for your business.",
+      "resourceItems": [
+        {
+          "type": "ical",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922031",
+          "description": "Attend Webinar",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Communicating Value Through a Financial Plan",
+      "description": "",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29922043",
+          "description": "Download Guide",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Contact the DOL DynamIQs Consulting Team",
+      "description": "The industry is evolving, and so is your business. We are here to help, and we invite you to contact us to learn more about how you can implement each of these steps to build a robust fee-based business.",
+      "resourceItems": [
+        {
+          "type": "email",
+          "url": "dol@cetera.com",
+          "description": "Consult: DOL DynamIQs Consulting Team",
+          "sso": "no"
+        }
+      ]
+    }
+  ]
+}

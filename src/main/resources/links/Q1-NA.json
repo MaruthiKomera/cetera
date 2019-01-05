@@ -1,0 +1,31 @@
+{
+  "tabTitle": "Advisory",
+  "pageTitle": "Build and Grow your Fee-Based Business",
+  "description": "With the passage of the DOL Fiduciary rule, a fee-based approach is one of the more viable options to advise on retirement accounts.",
+  "resourceStepList": [
+    {
+      "title": "The Path to Building an Advisory Business",
+      "description": "Advisors who move a significant percentage of their assets into fee-based (advisory) accounts benefit from higher overall return on assets as well as improving the quality of client relationships. (Source: PriceMetrix: Transitioning to Fee, August 2012). If you are looking for ideas to transition to a fee-based business model, we've created a roadmap to make the transition to those benefits faster, smoother and easier.",
+      "resourceItems": [
+        {
+          "type": "pdf",
+          "url": "https://myceterasmartworks.com/Public/Portal/Content.aspx?ContentId=29921864",
+          "description": "Read: Transitioning to Fees",
+          "sso": "no"
+        }
+      ]
+    },
+    {
+      "title": "Learn More about how Cetera Financial Group can help you Navigate the DOL Fiduciary Rule",
+      "description": "We have the expertise to help you bring your business to the next level. You manage your relationship with your clients and assist them in reaching their financial goals, and we provide you with just about everything you need to do just that, short of a desk chair. Contact us now to learn about how we can put the full scale and resources of our network of firms to work for you.",
+      "resourceItems": [
+        {
+          "type": "email",
+          "url": "dolinfo@cetera.com",
+          "description": "Contact: Cetera Financial Group",
+          "sso": "no"
+        }
+      ]
+    }
+  ]
+}
